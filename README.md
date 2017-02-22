@@ -1,6 +1,6 @@
 # Shell scripting commands 
 
- ##### File based Commands 
+ ### File based Commands 
 
 `Umask`  : displays current directory 		permissions
 `0022`  ignore the first bit 022 subtract with 777  > 744  
